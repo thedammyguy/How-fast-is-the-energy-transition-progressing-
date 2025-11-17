@@ -92,6 +92,7 @@ The combined consumption increase for Solar and Wind was 1,044.63 TWh over the 1
 The sector is making progress, but the required scale-up is immense. In 2023, Solar grew impressively by 23%, and Wind increased by approximately 10% from 2022 levels. This sustained, high-speed growth in both Solar and Wind must continue and accelerate for the global energy system to successfully pivot away from fossil fuels, as envisioned in Net Zero scenarios.
 
 Progress in other key low-carbon sources is stalling and even reversing, posing a significant risk to decarbonization efforts: Consumption from Hydro actually declined by 2% in 2023, contributing to the overall energy contraction. This reversal is critical because global Hydro potential is heavily underutilised. Current estimates suggest that only 30% of the world's hydroelectricity potential is currently tapped, with Africa holding the least utilised potential (estimated at 6-11% utilisation). 
+
 Scaling up this established, dispatchable renewable source, particularly in developing regions, is a vital, immediate opportunity to meet decarbonization targets.
 
 
@@ -110,6 +111,7 @@ Figure 6: Trend of Electricity Consumption by Energy Source for Asia
 
 
 2. Europe represents the world's second-largest consumer, but its trends show a clear move toward demand management and decarbonization. Europe held a 17.9% (4,951.58 TWh) share of global consumption in 2023. Notably, this represented a 2.0% decline from the previous year's value, indicating a deceleration in demand (although consumption remains 10.6% above 2000 levels).
+   
 Policy efforts have resulted in a higher mix of clean sources, with renewables contributing over a quarter (25.2%) of Europe's total energy consumption. The energy mix is more diversified than Asia's, and the gradual reduction in fossil fuel contribution is evident. Natural Gas is the top source (1,201 TWh). Nuclear (965 TWh) and Hydro (818 TWh) are close behind. Coal consumption trails with 713 TWh. Europe demonstrates a gradual reduction in fossil fuel contributions that contrasts sharply with the massive, exponential increase in high-growth renewables like Solar (291 TWh) and Wind (609 TWh).
 
 
